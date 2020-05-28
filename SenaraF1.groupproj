@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{F55F42E3-6A74-4FE8-A524-80AE2F565366}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="SenaraAdapterF1Exec.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="SenaraConfigF1.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="SenaraAdapterF1Exec">
+        <MSBuild Projects="SenaraAdapterF1Exec.dproj"/>
+    </Target>
+    <Target Name="SenaraAdapterF1Exec:Clean">
+        <MSBuild Projects="SenaraAdapterF1Exec.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SenaraAdapterF1Exec:Make">
+        <MSBuild Projects="SenaraAdapterF1Exec.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SenaraConfigF1">
+        <MSBuild Projects="SenaraConfigF1.dproj"/>
+    </Target>
+    <Target Name="SenaraConfigF1:Clean">
+        <MSBuild Projects="SenaraConfigF1.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SenaraConfigF1:Make">
+        <MSBuild Projects="SenaraConfigF1.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="SenaraAdapterF1Exec;SenaraConfigF1"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="SenaraAdapterF1Exec:Clean;SenaraConfigF1:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="SenaraAdapterF1Exec:Make;SenaraConfigF1:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

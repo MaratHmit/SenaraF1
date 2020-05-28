@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.150,=D:\ProjectsDelphi\RusGuardN\Consts.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,D:\Proejcts\Delphi\SenaraF1\SenaraAdapterF1Exec.dproj=D:\Proejcts\Delphi\SenaraF1\TerminalAdapter.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,=D:\ProjectsDelphi\RusGuardN\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,=C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=D:\ProjectsDelphi\RusGuardN\Service.Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.389,=D:\ProjectsDelphi\RusGuardN\JSON\superobject.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,D:\ProjectsDelphi\RusGuardN\TerminalAdapter.dproj=D:\ProjectsDelphi\RusGuardN\RusGuardTerminal.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.334,=D:\ProjectsDelphi\RusGuardN\Storage.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=D:\ProjectsDelphi\RusGuardN\Service.Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj=D:\ProjectsDelphi\RusGuardN\RusGuardTerminal.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

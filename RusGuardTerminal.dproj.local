@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.03.10 18:16:47.837,=C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020.03.10 18:17:09.039,D:\ProjectsDelphi\RusGuardN\Service.Main.dfm=C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020.03.10 18:17:09.039,D:\ProjectsDelphi\RusGuardN\Service.Main.pas=C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020.03.10 18:17:23.820,D:\ProjectsDelphi\RusGuardN\RusGuardTerminal.dproj=C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

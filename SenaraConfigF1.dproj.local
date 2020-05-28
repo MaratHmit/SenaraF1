@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.243,=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,=D:\ProjectsDelphi\RusGuardN\Api.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,D:\ProjectsDelphi\RusGuardN\Consts.pas=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.993,D:\ProjectsDelphi\RusGuardN\ServiceFunctions.pas=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.253,D:\ProjectsDelphi\RusGuardN\WSSE.pas=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,D:\ProjectsDelphi\RusGuardN\Unit1.pas=D:\ProjectsDelphi\RusGuardN\Service.Handler.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,D:\ProjectsDelphi\RusGuardN\DataModule.pas=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,=C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,D:\ProjectsDelphi\RusGuardN\Unit1.pas=D:\ProjectsDelphi\RusGuardN\Forms.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,=D:\ProjectsDelphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,=D:\ProjectsDelphi\RusGuardN\LNetworkService.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,D:\ProjectsDelphi\RusGuardN\DataModule.dfm=D:\ProjectsDelphi\RusGuardN\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,=D:\ProjectsDelphi\RusGuardN\Storage.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,D:\Proejcts\Delphi\RusGuardN\Unit1.pas=D:\Proejcts\Delphi\RusGuardN\Forms.CardPoint.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,D:\ProjectsDelphi\RusGuardN\RusGuard.dproj=C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,=D:\ProjectsDelphi\RusGuardN\Forms.Config.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,D:\ProjectsDelphi\RusGuardN\Forms.Main.dfm=C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,=D:\ProjectsDelphi\RusGuardN\JSON\superobject.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,D:\Proejcts\Delphi\RusGuardN\Unit1.dfm=D:\Proejcts\Delphi\RusGuardN\Forms.CardPoint.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.485,D:\Proejcts\Delphi\SenaraF1\Forms.CardPoint.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,D:\Proejcts\Delphi\SenaraF1\SenaraConfigF1.dproj=D:\Proejcts\Delphi\SenaraF1\RusGuard.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.609,D:\ProjectsDelphi\RusGuardN\Forms.Main.pas=C:\Users\khaid\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,=D:\Proejcts\Delphi\RusGuardN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,D:\ProjectsDelphi\RusGuardN\Unit1.dfm=D:\ProjectsDelphi\RusGuardN\Forms.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.161,D:\Proejcts\Delphi\RusGuardN\Forms.Main.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
